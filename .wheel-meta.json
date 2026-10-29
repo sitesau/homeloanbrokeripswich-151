@@ -1,0 +1,22 @@
+{
+  "wheel_id": 495,
+  "structure": "umbrella",
+  "slug": "homeloanbrokeripswich-151",
+  "project": "mortgage-broker-ipswich-6a719745dbfd98c234d7fccaa8aa3bba46714d5",
+  "parent_t1_ref": "homeloanbrokeripswich-010",
+  "node_role": "buffer",
+  "money_target": "homeloanbrokeripswich.com.au",
+  "primary_kw": "mortgage broker ipswich",
+  "intended_url": "https://sitesau.github.io/homeloanbrokeripswich-151/",
+  "tier": "T2",
+  "writeback_nonce": "2326c72b7a51e264",
+  "links": [
+    {
+      "target_url": "https://sites-e470-1.web.app/mortgage-broker-ipswich-010/",
+      "anchor": "Mortgage Broker Ipswich: A Practical Borrower Guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "topical"
+    }
+  ]
+}
